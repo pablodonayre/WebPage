@@ -1,0 +1,3 @@
+En el archivo: jquery.countdown.js 
+
+Se debe modificar la "FECHA Y HORA OBJETIVO"
